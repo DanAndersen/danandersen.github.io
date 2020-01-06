@@ -50,6 +50,10 @@ layout: default
           <p>[<a href=" {{ page.paperurl }} "><u>PDF</u></a>]</p>
         {% endif %}
 
+        {% if page.posterurl %}
+          <p>[<a href=" {{ page.posterurl }} "><u>PDF (poster)</u></a>]</p>
+        {% endif %}
+
         {% if page.videourl %}
           <p>[<a href=" {{ page.videourl }} "><u>Video</u></a>]</p>
         {% endif %}

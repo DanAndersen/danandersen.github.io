@@ -56,6 +56,10 @@
       <p>[<a href=" {{ post.paperurl }} "><u>PDF</u></a>]</p>
     {% endif %}
 
+    {% if post.videourl %}
+      <p>[<a href=" {{ post.videourl }} "><u>Video</u></a>]</p>
+    {% endif %}
+
     {% if post.citation and post.doiurl %}
       <p>Citation: {{ post.citation }} <a href="{{ post.doiurl }}"><u>{{ post.doiurl }}</u></a></p>
     {% elsif post.citation %}

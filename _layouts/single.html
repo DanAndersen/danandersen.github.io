@@ -50,6 +50,10 @@ layout: default
           <p>[<a href=" {{ page.paperurl }} "><u>PDF</u></a>]</p>
         {% endif %}
 
+        {% if page.videourl %}
+          <p>[<a href=" {{ page.videourl }} "><u>Video</u></a>]</p>
+        {% endif %}
+
         {% if page.citation and page.doiurl %}
           <p>Citation: {{ page.citation }} <a href="{{ page.doiurl }}"><u>{{ page.doiurl }}</u></a></p>
         {% elsif page.citation %}

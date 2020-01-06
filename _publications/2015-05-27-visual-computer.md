@@ -1,5 +1,5 @@
 ---
-title: "Virtual annotations of the surgical field through an augmented reality transparent display"
+title: "Virtual Annotations of the Surgical Field Through an Augmented Reality Transparent Display"
 
 collection: publications
 
@@ -14,6 +14,8 @@ venue: 'The Visual Computer'
 doiurl: 'https://doi.org/10.1007/s00371-015-1135-6'
 
 paperurl: '/files/Andersen-TVC-2015.pdf'
+
+videourl: 'https://www.youtube.com/watch?v=TS4r4qflDac'
 
 citation: "Andersen D, Popescu V, Cabrera ME, Shanghavi A, Gomez G, Marley S, Mullis B, Wachs J. Virtual annotations of the surgical field through an augmented reality transparent display. The Visual Computer. 2016 Nov 1;32(11):1481-98."
 ---

@@ -1,12 +1,17 @@
 ---
 permalink: /
-title: "Biography"
+title: "Dan Andersen - PhD Student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+[Resume / CV](/files/andersen-resume-2019-07-24.pdf)
+
+Publications
+======
 
 I am currently a final-year computer science Ph.D. student at Purdue University. My advisor is [Voicu Popescu](https://www.cs.purdue.edu/homes/popescu/).
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dan Andersen - PhD Student"
+title: "Dan Andersen - PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,9 +13,9 @@ redirect_from:
 Publications
 ======
 
-I am currently a final-year computer science Ph.D. student in the [CGVLab](http://wiki.cs.purdue.edu/cgvlab/) at Purdue University. My advisor is [Voicu Popescu](https://www.cs.purdue.edu/homes/popescu/).
+I am a research scientist in the field of augmented and virtual reality. I received my Ph.D. in spring 2020 from Purdue University, and was a member of the [CGVLab](http://wiki.cs.purdue.edu/cgvlab/). My advisor was [Dr Voicu Popescu](https://www.cs.purdue.edu/homes/popescu/).
 
-My research interest is the use of augmented and virtual reality for interactive guidance and task completion. First, I am interested in the applications of AR/VR for medical and educational applications, such as surgical telementoring. Second, I am interested in providing automated AR guidance to users completing acquisition-based tasks, such as 3D scanning of indoor environments to a desired level of coverage.
+My [dissertation](https://hammer.figshare.com/articles/Effective_User_Guidance_through_Augmented_Reality_Interfaces_Advances_and_Applications/12184701) focused on the use of augmented and virtual reality for interactive guidance and task completion. First, I investigated the applications of AR/VR for medical and educational applications, such as surgical telementoring. Second, I investigated providing automated AR guidance to users completing acquisition-based tasks, such as 3D scanning of indoor environments to a desired level of coverage.
 
 Publications
 ======
